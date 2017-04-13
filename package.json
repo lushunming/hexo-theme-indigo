@@ -1,5 +1,5 @@
 {
-  "name": "hexo-theme-material-indigo",
+  "name": "hexo-theme-material-indigo-custom",
   "version": "1.6.1",
   "description": "Material Design theme for Hexo.",
   "keywords": [
@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "repository": {
-    "url": "git+https://github.com/yscoder/hexo-theme-indigo.git",
+    "url": "git+https://github.com/lushunming/hexo-theme-indigo.git",
     "type": "git"
   }
 }
